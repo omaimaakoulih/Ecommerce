@@ -1,5 +1,5 @@
 # Ecommerce
-an E-commerce Web Site created using Symfony framework
+Cloth<i>Ng</i> is an E-commerce Web Site created using Symfony framework
 ## Functionalities
 * CRUD Operations like:
   * Create a user account 
